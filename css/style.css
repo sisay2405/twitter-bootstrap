@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+    /* background-color:green; */
+}
+.numberbig{
+    font-size: 20px;
+    font-weight:bold;
+    color:red;
+}
+.black{
+    background:black
+}
+.pink{
+    background:pink
+}
+.blue{
+    background-color:rgb(46, 46, 189);
+    color:red;
+}
